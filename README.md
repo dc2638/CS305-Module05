@@ -1,2 +1,2 @@
 # CS305-Module05
-CS305-Module05 assignment
+This is a GitHub Repo for NAU's CS 305 Module 05.
